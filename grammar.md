@@ -1,4 +1,4 @@
-## Gramar
+## Grammar
 
     E:= TX
     X:= +TX | λ
